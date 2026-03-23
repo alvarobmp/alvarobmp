@@ -6,12 +6,13 @@
 
 ---
 
-## 🔐 Security Research
+## 🔐 Security Research & Incident Response
 
 | Project | Description | Category |
 |---|---|---|
-| [DLP Bypass via WiFi + AirDroid](https://github.com/alvarobmp/dlp-bypass-airdroid) | Bypassed BitLocker To Go, Cisco AnyConnect Full Tunnel and device controls using a personal hotspot and AirDroid HTTP interface | Endpoint Security · DLP |
+| [DLP Bypass via WiFi + AirDroid](https://github.com/alvarobmp/dlp-bypass-airdroid-writeup) | Bypassed BitLocker To Go, Cisco AnyConnect Full Tunnel and device controls using a personal hotspot and AirDroid HTTP interface | Endpoint Security · DLP |
 | [W32/Autorun on Mobile Memory Cards](https://github.com/alvarobmp/autorun-malware-microsd-analysis) | Identified and remediated a W32/Autorun variant hiding via +S +H attributes on Sony Ericsson microSD cards — script deployed nationally across Movistar Peru | Malware Analysis · IR |
+| [W32/Virut on Corporate File Server](https://github.com/alvarobmp/virut-incident-response-corporate-network) | Identified reinfection cycle from infected file server causing persistent BSOD across two branches — root cause analysis + OS migration eliminated the issue | Incident Response · RCA |
 
 ---
 
