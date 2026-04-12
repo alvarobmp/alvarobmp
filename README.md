@@ -59,9 +59,9 @@ Gestión                │ ITIL v4 · Jira ITSM · Documentación técnica
 
 ## 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alvaromrtnz-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvaromrtnz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alvaromrtnz-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvarobmp/)
 [![GitHub](https://img.shields.io/badge/GitHub-alvarobmp-181717?style=flat&logo=github)](https://github.com/alvarobmp)
-
+[![YouTube](https://img.shields.io/badge/YouTube-alvarobmp-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@alvarobmp)
 ---
 
 *Disponible para roles SOC Analyst Jr. — remoto LATAM o presencial/híbrido Lima, Perú.*
