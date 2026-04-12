@@ -1,61 +1,67 @@
-# Hi, I'm Alvaro Martinez 👋
+# Hola, soy Álvaro Martínez 👋
 
-**IT Infrastructure Specialist | Cybersecurity | Lima, Perú 🇵🇪**
+**Analista SOC en formación | Blue Team | Lima, Perú 🇵🇪**
 
-~10 years in IT overall — 4 years focused on infrastructure administration and operations. I work on endpoint security, incident response, and IT automation for SME environments in Latin America.
+10 años en el sector TI — infraestructura, redes y operaciones bancarias críticas.
+
 
 ---
 
-## 🔐 Security Research & Incident Response
+## 🔐 Investigación de Seguridad y Respuesta a Incidentes
 
-| Project | Description | Category |
+| Proyecto | Descripción | Categoría |
 |---|---|---|
-| [DLP Bypass via WiFi + AirDroid](https://github.com/alvarobmp/dlp-bypass-airdroid-writeup) | Bypassed BitLocker To Go, Cisco AnyConnect Full Tunnel and device controls using a personal hotspot and AirDroid HTTP interface | Endpoint Security · DLP |
-| [W32/Autorun on Mobile Memory Cards](https://github.com/alvarobmp/autorun-malware-microsd-analysis) | Identified and remediated a W32/Autorun variant hiding via +S +H attributes on Sony Ericsson microSD cards — script deployed nationally across Movistar Peru | Malware Analysis · IR |
-| [W32/Virut on Corporate File Server](https://github.com/alvarobmp/virut-incident-response-corporate-network) | Identified reinfection cycle from infected file server causing persistent BSOD across two branches — root cause analysis + OS migration eliminated the issue | Incident Response · RCA |
+| [Casos SOC Perú](https://github.com/alvarobmp/SOC-Cases-Peru) | 5 casos de incidentes documentados con triage completo, MITRE ATT&CK y marco legal peruano (Leyes 29733, 30096, 26702, 29571) | Incident Response · Blue Team · LATAM |
+| [Laboratorio Wazuh SIEM](https://github.com/alvarobmp/lab-wazuh) | Lab físico activo: detección de movimiento lateral (T1021.002), Pass-the-Hash (T1550.002), credential dumping (T1003), reglas custom y Active Response | SIEM · Blue Team · MITRE ATT&CK |
+| [DLP Bypass vía WiFi + AirDroid](https://github.com/alvarobmp/dlp-bypass-airdroid-writeup) | Brecha de exfiltración en endpoint Windows 10 corporativo con BitLocker y Cisco AnyConnect Full Tunnel activos. MITRE T1011 · T1048 | Endpoint Security · DLP |
+| [W32/Autorun en Tarjetas de Memoria](https://github.com/alvarobmp/autorun-malware-microsd-analysis) | Variante W32/Autorun en microSD Sony Ericsson. Script de remediación desplegado a nivel nacional en infraestructura Movistar Perú | Malware Analysis · IR |
+| [W32/Virut en Servidor Corporativo](https://github.com/alvarobmp/virut-incident-response-corporate-network) | Ciclo de reinfección desde servidor de archivos causando BSOD en dos sucursales. Root cause analysis + migración de OS | Incident Response · RCA |
 
 ---
 
-## ⚙️ IT Automation & Labs
+## 📚 Recursos y Rutas de Aprendizaje
 
-| Project | Description | Category |
+| Proyecto | Descripción | Categoría |
 |---|---|---|
-| [Bulk Remote Shutdown — 100 macOS](https://github.com/alvarobmp/macos-bulk-shutdown-ssh) | Replaced 30-minute manual shutdown process with a single Bash script via parallel SSH — university lab environment | SSH · Bash · macOS |
-| [Wazuh SIEM Lab](https://github.com/alvarobmp/lab-wazuh) | Hands-on Wazuh deployment, tuning, and rule configuration for SME environments | SIEM · Wazuh · Blue Team |
+| [Roadmap SOC L1 — TryHackMe (Solo Gratuito)](https://github.com/alvarobmp/SOC-L1-Learning-Path---TryHackMe-Free-Resources) | 80+ rooms curados y ordenados por progresión real de habilidades SOC. Dos rutas: para profesionales TI y para quienes vienen de otros campos. 100% gratuito | Blue Team · Comunidad LATAM |
 
 ---
 
-## 🛠️ Skills & Tools
+## ⚙️ Automatización TI
+
+| Proyecto | Descripción | Categoría |
+|---|---|---|
+| [Apagado Masivo — 100 macOS](https://github.com/alvarobmp/macos-bulk-shutdown-ssh) | Reemplazó proceso manual de 30 minutos con un script Bash vía SSH paralelo en lab universitario | SSH · Bash · macOS |
+
+---
+
+## 🛠️ Stack Técnico
 
 ```
-Endpoint Security     │ DLP · BitLocker · Cisco AnyConnect · Device Control
-SIEM                  │ Wazuh (deployment, tuning, consulting)
-Malware Analysis      │ Incident Response · MITRE ATT&CK · Forensics
-Scripting             │ Bash · Batch (.bat) · PowerShell
-Systems               │ Windows Server · macOS · Linux (Ubuntu)
-Networking            │ TCP/IP · SSH · VPN · DNS · DHCP
+Detección y Análisis   │ Wazuh SIEM · Sysmon · Log Analysis · MITRE ATT&CK · Threat Detection
+EDR                    │ Check Point EDR · Kaspersky Administration Kit
+Infraestructura        │ Azure · Linux Red Hat/CentOS · Windows Server · Active Directory · Firewall Layer 7
+Scripting              │ Bash · PowerShell · Python
+Gestión                │ ITIL v4 · Jira ITSM · Documentación técnica
 ```
 
 ---
 
-## 📜 Certifications
+## 📜 Certificaciones
 
-- 🎓 Google Cybersecurity Certificate
-- 🎓 Cisco CyberOps Associate
-
----
-
-## 📊 GitHub Stats
-
-![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarobmp&show_icons=true&theme=dark&hide_border=true)
+- 🎓 Google Professional Cybersecurity Certificate
+- 🎓 Cisco CyberOps Associate (Curso completado)
+- 🎓 Cisco Cybersecurity Essentials
+- 🎓 Azure Administrator (curso completado)
+- 🎓 ITIL v4 Foundation (preparación)
 
 ---
 
-## 📫 Let's connect
+## 📫 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alvaromrtnz-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvaromrtnz/)
 [![GitHub](https://img.shields.io/badge/GitHub-alvarobmp-181717?style=flat&logo=github)](https://github.com/alvarobmp)
 
 ---
 
-*Open to cybersecurity consulting opportunities for SMEs in Peru and Latin America.*
+*Disponible para roles SOC Analyst Jr. — remoto LATAM o presencial/híbrido Lima, Perú.*
